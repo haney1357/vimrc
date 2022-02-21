@@ -1,3 +1,5 @@
+set textwidth=80
+set colorcolumn=72,80
 set hlsearch
 set nu
 set autoindent
